@@ -5,7 +5,7 @@ title: 3.4. Évaluation
 parent: 3. Fonctions du Droit
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 7
-published: false
+published: true
 ---
 ### 3.3. Évaluation : sujet de réflexion à propos du film "Sa majesté des mouches"
 

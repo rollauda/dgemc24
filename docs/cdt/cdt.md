@@ -3,7 +3,7 @@ title: Cahiers de textes
 layout: default
 nav_order: 17
 has_children: false
-published: true
+published: false
 ---
 ## Cahier de texte Option DGEMC 2023-2024
 
