@@ -9,10 +9,10 @@ published: true
 ## Introduction
 
 ### Qu'est-ce que le droit ?
-Ouvrir la [carte mentale sur le droit](https://rollauda.github.io/schemas/cartes/droit.html){:target="_blank" }
+Ouvrir la [carte mentale sur le droit](https://profauda.fr/schemas/cartes/droit.html){:target="_blank" }
 
 ### Qu'est-ce que la justice ?
-Ouvrir la [carte mentale sur la justice](https://rollauda.github.io/schemas/cartes/justice.html){:target="_blank" }
+Ouvrir la [carte mentale sur la justice](https://profauda.fr/schemas/cartes/justice.html){:target="_blank" }
 
 ### Compléments
 

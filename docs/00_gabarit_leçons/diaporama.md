@@ -7,5 +7,5 @@ published: false
 ---
 ## Diaporama de la leçon
 
-`<iframe src="https://rollauda.github.io/diaporamas/diapos/pt/TITRE.html" width="80%" height="450px" frameborder="0"></iframe>`
+`<iframe src="https://profauda.fr/diaporamas/diapos/pt/TITRE.html" width="80%" height="450px" frameborder="0"></iframe>`
 

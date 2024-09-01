@@ -9,4 +9,4 @@ published: true
 ---
 ## Corrigé de la carte mentale
 
-Ouvrir la [carte mentale sur les sanctions juridiques](https://rollauda.github.io/schemas/cartes/sanctions-juridiques.html){:target="_blank" }
+Ouvrir la [carte mentale sur les sanctions juridiques](https://profauda.fr/schemas/cartes/sanctions-juridiques.html){:target="_blank" }

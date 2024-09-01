@@ -5,7 +5,7 @@ url: https://dgemc.profauda.fr/
 repository: rollauda/dgemc24 # for github-metadata
 
 aux_links:
-  Accueil-Auda: https://rollauda.github.io
+  Accueil-Auda: https://www.profauda.fr
 
 # Enable or disable heading anchors
 heading_anchors: true
