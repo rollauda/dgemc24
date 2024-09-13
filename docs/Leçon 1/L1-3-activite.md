@@ -4,7 +4,7 @@ title: 2. Activité - procès
 parent: Chapitre 1 Leçon 1
 has_children: true
 nav_order: 3
-published: false
+published: true
 ---
 ## 2. Activité : reconstituer un procès
 
@@ -27,22 +27,11 @@ published: false
 > GROUPES
 >
 > **Affaire Jacqueline Sauvage :**
->- Sophia
->- Daniela
->- Isaia
--> Berenice
->- Maria Emilia
+>- 
 >
 > **Affaire du bon juge Magneaud :**
->- Domenica
->- Salomé
->- Suzanne
->- Emilia
+>- 
 >
 > **Affaire Antigone :**
-> - Aaron
->- Joaquin
->- José Ricardo
->- Anahi
->- Maria Piedad
+> - 
 

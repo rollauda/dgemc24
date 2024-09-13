@@ -21,7 +21,7 @@ published: true
 
 ### Droit privé et public, droit civil et pénal
 
-|  ![schema](../../../dgemc/assets/img/schemadroit.png)    |
+|  ![schema](/assets/img/schemadroit.png)    |
 
 {: .important-title }
 > DROIT CIVIL
@@ -50,7 +50,7 @@ published: true
 
 #### Les ordres judiciaires : les différentes juridictions françaises
 
-![ordre judiciaire](../../../dgemc/assets/img/ordre-judiciaire.png)
+![ordre judiciaire](/assets/img/ordre-judiciaire.png)
 
 {% pdf "../../assets/pdf/C1L1/juridictions.pdf" width=80% height=700px no_link %}
 
