@@ -19,6 +19,12 @@ published: true
 {:toc}
 </details>
 
+### Vidéos introductives
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jqEsqJ73Ef8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YJzSbo8tpzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Droit privé et public, droit civil et pénal
 
 |  ![schema](/assets/img/schemadroit.png)    |
@@ -37,13 +43,6 @@ published: true
 > APPEL ET CASSATION
 >
 > Les **juridictions de premier degré** sont les premières à rendre une décision. En cas de désaccord avec la décision rendue, une affaire peut être jugée une seconde fois par une **juridiction de second degré** : **cour d'appel** ou cour d'assises d'appel. Si la décision rendue par les juridictions de second degré n'est pas satisfaisante, il possible de **se pourvoir en cassation**, c'est-à-dire porter l'affaire devant la cour de cassation, qui ne juge pas le fond de l'affaire, mais la forme : elle vérifie si la décision judiciaire respecte le droit.
-
-
-### Vidéos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqEsqJ73Ef8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YJzSbo8tpzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Documents
 <br>
