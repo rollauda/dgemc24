@@ -7,7 +7,7 @@ grand_parent: Chapitre 1 Leçon 1
 nav_order: 2
 published: true
 ---
-### 3.1. Le droit assure la justice et la sécurité
+### 2.1. Le droit assure la justice et la sécurité
 Explication du premier texte de Henri Mazeaud (**voir le complément page suivante**)
 
 {: .nouveau-title }

@@ -7,7 +7,7 @@ grand_parent: Chapitre 1 Leçon 1
 nav_order: 1
 published: true
 ---
-## 2.1. Les juridictions françaises
+## Les juridictions françaises
 {: .no_toc }
 
 <details open markdown="block">

@@ -7,7 +7,7 @@ grand_parent: Chapitre 1 Leçon 1
 nav_order: 4
 published: true
 ---
-### 3.2. La règle morale peut-elle remplacer la règle de droit ?
+### 2.2. La règle morale peut-elle remplacer la règle de droit ?
 Explication du second texte de Henri Mazeaud
 
 {: .nouveau-title }

@@ -7,7 +7,7 @@ grand_parent: Chapitre 1 Leçon 1
 nav_order: 4
 published: true
 ---
-## 2.3. Fiches de préparation du procès
+## Fiches de préparation du procès
 {: .no_toc }
 
 <details open markdown="block">

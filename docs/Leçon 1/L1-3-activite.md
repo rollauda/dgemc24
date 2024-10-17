@@ -6,7 +6,7 @@ has_children: true
 nav_order: 3
 published: true
 ---
-## 2. Activité : reconstituer un procès
+## Activité : reconstituer un procès
 
 {: .note-title }
 > Consigne

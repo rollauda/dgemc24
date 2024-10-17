@@ -7,6 +7,6 @@ grand_parent: Chapitre 1 Leçon 1
 nav_order: 7
 published: true
 ---
-### 3.3. Évaluation : sujet de réflexion à propos du film "Sa majesté des mouches"
+### 2.3. Évaluation : sujet de réflexion à propos du film "Sa majesté des mouches"
 
 {% pdf "../../assets/pdf/C1L1/eval-mouches.pdf" width=80% height=700px no_link %}
