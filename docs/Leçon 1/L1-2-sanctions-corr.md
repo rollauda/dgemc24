@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3.3. corrigé
+title: 2.3. corrigé
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
 parent: 2. Fonctions du Droit
 grand_parent: Chapitre 1 Leçon 1

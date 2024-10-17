@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 3.2. Droit et morale
+title: 2.2. Droit et morale
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
-parent: 3. Fonctions du Droit
+parent: 2. Fonctions du Droit
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 4
 published: true

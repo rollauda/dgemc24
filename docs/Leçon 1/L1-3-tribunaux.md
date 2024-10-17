@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 2.2. Tribunaux
+title: Tribunaux
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
-parent: 2. Activité - procès
+parent: Activité - procès
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 2
 published: true
