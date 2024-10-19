@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 2.4. Évaluation
+title: 3.4. Évaluation
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
-parent: 2. Fonctions du Droit
+parent: 3. Fonctions du Droit
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 7
-published: true
+published: false
 ---
 ### 2.4. Évaluation : sujet de réflexion à propos du film "Sa majesté des mouches"
 

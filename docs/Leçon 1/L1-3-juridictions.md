@@ -2,7 +2,7 @@
 layout: default
 title: Les juridictions
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
-parent: Activité - procès
+parent: 2. Activité - procès
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 1
 published: true
