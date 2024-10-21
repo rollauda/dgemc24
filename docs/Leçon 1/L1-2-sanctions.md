@@ -7,7 +7,7 @@ grand_parent: Chapitre 1 Leçon 1
 nav_order: 5
 published: true
 ---
-### 2.3. Comment la Justice fait-elle respecter le Droit ?
+### 3.3. Comment la Justice fait-elle respecter le Droit ?
 Explication du troisième texte de Henri Mazeaud
 
 {: .nouveau-title }

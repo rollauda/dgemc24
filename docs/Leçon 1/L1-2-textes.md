@@ -14,4 +14,4 @@ published: true
 >
 > Expliquer le sens de la question "Quelles sont les fonctions du Droit ?"
 
-{% pdf "../../assets/pdf/C1L1/C1L1-1-2-textes.pdf" width=80% height=700px no_link %}
+{% pdf "../../assets/pdf/C1L1/C1L1-1-3-textes.pdf" width=80% height=700px no_link %}

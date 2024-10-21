@@ -6,4 +6,4 @@ has_children: true
 nav_order: 4
 published: true
 ---
-## 2. Quelles sont les fonctions du Droit ?
+## 3. Quelles sont les fonctions du Droit ?
