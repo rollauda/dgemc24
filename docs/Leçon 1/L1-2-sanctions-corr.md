@@ -5,7 +5,7 @@ title: 3.3. corrigé
 parent: 3. Fonctions du Droit
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 6
-published: false
+published: true
 ---
 ## Corrigé de la carte mentale
 
