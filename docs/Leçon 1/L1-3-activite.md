@@ -23,15 +23,5 @@ published: true
 > - Vous pourrez ensuite adapter l'affaire au droit français d'aujourd'hui en changeant la victime et l'accusé de votre affaire
 > - consulter le site [Légifrance](https://www.legifrance.gouv.fr/){:target="_blank"} pour chercher quels textes de loi sont concernés par votre affaire
 
-{: .nouveau-title }
-> GROUPES
->
-> **Affaire Jacqueline Sauvage :**
->- 
->
-> **Affaire du bon juge Magneaud :**
->- 
->
-> **Affaire Antigone :**
-> - 
+
 
